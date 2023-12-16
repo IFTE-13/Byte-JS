@@ -22,4 +22,10 @@ The JavaScript Drawing Board is an interactive canvas that allows users to unlea
 
 ![image](https://github.com/IFTE-13/Byte-JS/assets/75083426/4864849a-f3b9-432a-a140-837053d064d2)
 
+#### **Recipe Finder**
+The Recipe Finder is a JavaScript-based application designed to simplify the search for delectable recipes. With this tool, users can explore a vast database of recipes, filter by ingredients or cuisine, and discover culinary inspirations for various meals and occasions.
+
+![image](https://github.com/IFTE-13/Byte-JS/assets/75083426/589c2251-0486-423c-b459-c664ec2f2648)
+
+
 
