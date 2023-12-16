@@ -17,3 +17,9 @@ The Tip Calculator project is a user-friendly JavaScript application that simpli
 
 ![image](https://github.com/IFTE-13/Byte-JS/assets/75083426/4aafb06f-5067-437e-a9a7-1877e6af9b0a)
 
+#### **Drawing Board**
+The JavaScript Drawing Board is an interactive canvas that allows users to unleash their creativity by drawing and sketching in a digital environment.
+
+![image](https://github.com/IFTE-13/Byte-JS/assets/75083426/4864849a-f3b9-432a-a140-837053d064d2)
+
+
