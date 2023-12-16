@@ -11,3 +11,9 @@ Welcome to our JavaScript Codebase Repository! This repository houses a curated 
 The GitHub Profile Search project is a JavaScript-based application designed to swiftly search and display GitHub user profiles. Leveraging the GitHub API, this application enables users to input a GitHub username and retrieve detailed information about the user, including their repositories, followers, following, and a summary of their profile.
 
 ![image](https://github.com/IFTE-13/Byte-JS/assets/75083426/17f676ca-08d6-4ba7-b167-aba2ae36275a)
+
+#### **Tip Calculator**
+The Tip Calculator project is a user-friendly JavaScript application that simplifies the process of calculating tips. It allows users to input the total bill amount, select a tip percentage and, the number of people sharing the bill, and determine the tip amount and total bill including the tip.
+
+![image](https://github.com/IFTE-13/Byte-JS/assets/75083426/4aafb06f-5067-437e-a9a7-1877e6af9b0a)
+
